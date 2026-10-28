@@ -1,0 +1,10 @@
+{
+  "name": "Kasyno USDT Polska",
+  "short_name": "USDT Casino PL",
+  "start_url": "/pl/",
+  "display": "standalone",
+  "background_color": "#f4f7f5",
+  "theme_color": "#0b1321",
+  "lang": "pl-PL",
+  "icons": [{"src":"/favicon.svg","sizes":"any","type":"image/svg+xml"}]
+}
